@@ -51,5 +51,5 @@
 <ul>
   <li>nothing</li>
 
-  <li>رزومه ے انگلیسے: <a href=""> رزومه </a></li>
+  <li>رزومه ے انگلیسے: <a href="https://norazaran.github.io/norazaran/"> رزومه </a></li>
 </ul>
