@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+<div dir="rtl">
+  <img src="" />
+  <h1> درباره‌ی من</h1>
+  <p> من محمدحسین نورآذران هستم. من دانشجوی کارشناسے رشته‌ی مهندسی کامپیوتر در دانشگاه پیام نور مراغه هستم.</p>
+  
+  <ul>
+    <h3> مشخصات فردی</h3>
+  <li>نام: محمدحسین</li>
+  <li>نام خانوادگے: نورآذران</li>
+  <li>وضعیت تاهل: مجرد</li>
+  <li>تاریخ تولد: ۱ تیر ۱۳۷۴</li>
+  <li>محل سڪونت: مراغه</li>
+</ul>
 
-You can use the [editor on GitHub](https://github.com/norazaran/resume-fa.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  
+<h1>مهارت ها</h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<ul>
+  <li>ICDL1</li>
+  <li>ICDL2</li>
+  <li>ضمن خدمت فرهنگیان</li>
+</ul>
 
-### Markdown
+<h1> مدرک ها</h1>
+<ul>
+  <li>لیسانس کامپیوتر نرم افزار</li>
+</ul>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h1> زبان ها</h1>
+<ul>
+  <li>فارسی</li>
+  <li>انگلیسی</li>
+</ul>
 
-```markdown
-Syntax highlighted code block
+<h1> تجربه هاے ڪارے </h1>
+<ul>
+   <li>کار در پالایشگاه نفت</li>
+   <li>کار در اداره‌ی گاز</li>
+   <li>کار در آموزش و پرورش</li>
+</ul>
 
-# Header 1
-## Header 2
-### Header 3
+<h1> سوابق تحصیلے </h1>
+<ul>
+   <li> دیپلم رشته‌‌ی کامپیوتر در دبیرستان پور رستم</li>
+   <li> دانشجوی کارشناسی رشته‌ی مهندسی ڪامپیوتر در دانشگاه پیام نور و در حال تحصیل</li>
+</ul>
 
-- Bulleted
-- List
+<br/>
 
-1. Numbered
-2. List
+<h1> سایر حساب هاے ڪاربرے </h1>
+<ul>
+  <li>nothing</li>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/norazaran/resume-fa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  <li>رزومه ے انگلیسے: <a href=""> رزومه </a></li>
+</ul>
